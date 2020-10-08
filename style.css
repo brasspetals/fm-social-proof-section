@@ -52,7 +52,7 @@ body {
 .heading {
     display: flex;
     flex-direction: column;
-    flex: 0 0 42%;
+    flex: 0 0 40%;
     margin-right: 2rem;
 }
 
@@ -65,7 +65,7 @@ body {
 
 .heading-sub {
     margin-top: 1.2rem;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 1.5rem;
     color: var(--color-primary-medium);
     line-height: 1.6;
@@ -126,7 +126,7 @@ body {
 .testimonial {
     background-color: var(--color-primary-dark);
     font-size: 1.25rem;
-    font-weight: 400;
+    font-weight: 500;
     color: rgb(247, 242, 247);
     padding: 4rem 3.25rem;
     border-radius: 8px;
